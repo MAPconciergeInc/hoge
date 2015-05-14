@@ -1,0 +1,71 @@
+---2015/5/11---
+＜ログイン＞ 
+とりあえず全員 
+・info@mapconcierge.com -> 事務全般（ @hiroko @furuhashigemi  ） 
+・tech@mapconcierge.com -> 技術者（ @furukawa  @kenyat ） 
+・taichi@mapconcierge.com -> 責任者 ( 古橋 )  
+でログイン！ 
+
+それぞれ経費精算のページヘ 
+https://secure.freee.co.jp/expense_applications 
+
+＜経費精算＞ 
+・承認者は「taichi@mapconcierge.com 」で  
+　申請日は今日で 
+　備考欄に自分の名前記入 
+http://gyazo.com/a598b19a1c50044d6444a4e769eae6bb 
+こんな感じ （イラスト） 
+http://i.gyazo.com/c4d02a2ceb7238b4933a704916441738.png (38KB)   http://gyazo.com/c4d02a2ceb7238b4933a704916441738 Gyazo (38KB)    
+権限に関係なくみんなみれる感じですね。しかも承認もできてしまうというw  
+いろいろ設定が必要になると思うので、当分はみんなでチェックしながら全員管理者でいきましょう。 
+備考が "なかお" とひらがな表記なのはあとで検索時にきっと文字振れ起きるので"中尾"漢字表記で 
+@furukawa さんの申請を古橋以外の誰かが承認できますか？ 
+みんな管理者だからできちゃうのね 
+自分で自分の申請を承認も可能かもですねw 
+・「取引を登録にする」のボタンを押す前に、取引先で各自氏名を入れないといけませんね。 
+あとから備考欄での検索より  取引先のタグ検索の方が楽なので 
+あと、収支レポートを出力する際に、取引先ごとに集計してくれます  
+最後取引先には、立替した人の氏名を入力するルールで 
+古橋大地 
+古橋重実 
+古川泰人 
+中尾浩子 
+田村賢哉 
+登録done 
+このURLで直接見れますか？ https://secure.freee.co.jp/expense_applications#start_issue_date=&end_issue_date=&user_cid=&reviewer_cid=&status=registered&offset=0 
+Permalinkとして機能しますね。 
+
+＜検索＞ 
+検索は 取引の一覧 からです！ 
+https://secure.freee.co.jp/deals#mode=search 
+トータルはレポートからでもいけるね 
+https://secure.freee.co.jp/reports/general_ledgers?end_date=2015-05-31&entry_side=-1&fiscal_year=164200&gl_summation_method=1&partner_name=%E7%94%B0%E6%9D%91%E8%B3%A2%E5%93%89&start_date=2014-12-01 
+個別の項目については「取引の一覧」 
+最終的にほしいのは、限定された期間の現金立替分の経費総計が人数分必要。  
+それを一発で出すには収支レポート 
+毎月1日〜月末までの精算だよね。厳密に1日〜月末ですね。 
+→会社の集計期間を freee に合わせましょう 
+毎月5日に給与振込みで経費は月末までに入力 
+給与計算機能はそれぞれのプライバシーは考えながら運用してみます。  
+今月は試験的に 
+5/1-31 経費精算 
+遅くとも 6/1 までに入力。 
+@furuhashigemi は 6/2-4 までに給与計算 
+古橋が 6/5 までに給与振込み 
+
+領収書の添付をお願いしてよろしいでしょうか。 
+領収書についてもfreeeにアップロード前提で各自お願いします。 
+毎月でなくてもまとめて送っていただけるとありがたいです 
+経費の入力は基本その日のうちに！
+基本的にJPG/PNG画像かPDFで 
+領収書はファイルボックスで確認できます 
+https://secure.freee.co.jp/receipts 
+将来的には領収書は電子保存になるようです 
+http://www.nikkei.com/article/DGXLASDF27H1U_Y5A420C1MM0000/  
+領収書の原本は、あと２年は @furuhashigemi: 宛に送ってください。 
+青学の研究室に領収書ボックス作るのでそこにいれてもOK 
+
+削除すると、すべて却下扱いになるんですね。  
+＜次回＞ 
+19日 10:30-11:30 に 
+次回は、OpenGeoSuiteなどのGIS講習会を前提に、精算処理をみんなで確認しましょう。 
